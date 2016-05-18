@@ -1,5 +1,8 @@
 # Overstock Mobile Front End Dev. Candidate Assessment
 
+This is Trevor Hatch's solution to the JavaScript test presented by Overstock.com found at <https://github.com/overstock/JSTestMobile>
+
+
 ## Instructions
 
 This assessment consists of two parts. The first part is writing correct Javascript implementations for a few small functions. Unit test(s) for these implementations are provided. Once the implementations have been written correctly, all tests will pass.
