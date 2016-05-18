@@ -1,0 +1,24 @@
+{
+  "name": "oco-candidate",
+  "version": "0.0.1",
+  "description": "Candidate assessment for Overstock Mobile Javascript Developer position",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r test/spec"
+  },
+  "keywords": [
+    "Assessment"
+  ],
+  "author": "Jim Wharton",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^0.6.6",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.1"
+  }
+}
